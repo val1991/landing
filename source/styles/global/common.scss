@@ -1,13 +1,19 @@
 .container {
-	max-width: 1024px;
+	max-width: 1060px;
 	margin: auto;
 }
 
-.is-hidden{
-	display: none!important;
+.new-container{
+		max-width: 1121px;
+		margin: auto;
 }
 
-.visually-hidden{
-	text-indent: -9999px;
-	font-size: 0;
+.line-solid{
+		width: 100%;
+		height: 1px;
+		background-color: #f4f4f4;
+}
+
+.is-hidden{
+	display: none;
 }
